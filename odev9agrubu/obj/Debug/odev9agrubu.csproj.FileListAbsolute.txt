@@ -1,0 +1,15 @@
+C:\Users\gunes\OneDrive\Masaüstü\Algoritmalar\odev9agrubu\odev9agrubu\obj\Debug\odev9agrubu.csproj.AssemblyReference.cache
+C:\Users\gunes\OneDrive\Masaüstü\Algoritmalar\odev9agrubu\odev9agrubu\obj\Debug\odev9agrubu.csproj.CoreCompileInputs.cache
+C:\Users\gunes\OneDrive\Masaüstü\Algoritmalar\odev9agrubu\odev9agrubu\bin\Debug\odev9agrubu.exe.config
+C:\Users\gunes\OneDrive\Masaüstü\Algoritmalar\odev9agrubu\odev9agrubu\bin\Debug\odev9agrubu.exe
+C:\Users\gunes\OneDrive\Masaüstü\Algoritmalar\odev9agrubu\odev9agrubu\bin\Debug\odev9agrubu.pdb
+C:\Users\gunes\OneDrive\Masaüstü\Algoritmalar\odev9agrubu\odev9agrubu\obj\Debug\odev9agrubu.exe
+C:\Users\gunes\OneDrive\Masaüstü\Algoritmalar\odev9agrubu\odev9agrubu\obj\Debug\odev9agrubu.pdb
+C:\Users\gunes\OneDrive\Masaüstü\Ders Notları\Ders Notları 1.sınıf\AlgoritmaLab Ödevleri\Algoritmalar\odev9agrubu\odev9agrubu\bin\Debug\odev9agrubu.exe.config
+C:\Users\gunes\OneDrive\Masaüstü\Ders Notları\Ders Notları 1.sınıf\AlgoritmaLab Ödevleri\Algoritmalar\odev9agrubu\odev9agrubu\bin\Debug\odev9agrubu.exe
+C:\Users\gunes\OneDrive\Masaüstü\Ders Notları\Ders Notları 1.sınıf\AlgoritmaLab Ödevleri\Algoritmalar\odev9agrubu\odev9agrubu\bin\Debug\odev9agrubu.pdb
+C:\Users\gunes\OneDrive\Masaüstü\Ders Notları\Ders Notları 1.sınıf\AlgoritmaLab Ödevleri\Algoritmalar\odev9agrubu\odev9agrubu\obj\Debug\odev9agrubu.csproj.AssemblyReference.cache
+C:\Users\gunes\OneDrive\Masaüstü\Ders Notları\Ders Notları 1.sınıf\AlgoritmaLab Ödevleri\Algoritmalar\odev9agrubu\odev9agrubu\obj\Debug\odev9agrubu.csproj.SuggestedBindingRedirects.cache
+C:\Users\gunes\OneDrive\Masaüstü\Ders Notları\Ders Notları 1.sınıf\AlgoritmaLab Ödevleri\Algoritmalar\odev9agrubu\odev9agrubu\obj\Debug\odev9agrubu.csproj.CoreCompileInputs.cache
+C:\Users\gunes\OneDrive\Masaüstü\Ders Notları\Ders Notları 1.sınıf\AlgoritmaLab Ödevleri\Algoritmalar\odev9agrubu\odev9agrubu\obj\Debug\odev9agrubu.exe
+C:\Users\gunes\OneDrive\Masaüstü\Ders Notları\Ders Notları 1.sınıf\AlgoritmaLab Ödevleri\Algoritmalar\odev9agrubu\odev9agrubu\obj\Debug\odev9agrubu.pdb
